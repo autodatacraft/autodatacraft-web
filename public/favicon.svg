@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <title>AutoDataCraft</title>
+  <path fill="#163E35" d="M32 3C48.6 3 60 14.8 60 31.4 60 48.9 48.4 61 31.2 61 14.9 61 4 49.2 4 32.3 4 15.2 15.4 3 32 3Z"/>
+  <path fill="#FFFDF8" d="M18.7 47 28.9 17h6.5l10.1 30h-6.7l-2-6.6H27.2L25.3 47h-6.6Zm10.2-12.3h6.2L32 24.1l-3.1 10.6Z"/>
+  <circle cx="49" cy="15" r="5" fill="#ED765F"/>
+</svg>
