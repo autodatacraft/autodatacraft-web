@@ -58,7 +58,7 @@ function App() {
           <div className="hero-copy">
             <p className="eyebrow"><span></span> Independent developer · Available for projects</p>
             <h1>Useful software,<br /><em>built around your business.</em></h1>
-            <p className="hero-lede">I build web apps, automations, and data-collection tools that remove busywork and help your business run more smoothly.</p>
+            <p className="hero-lede">I build mobile/web apps, automations, and data-collection tools that remove busywork and help your business run more smoothly.</p>
             <div className="hero-actions">
               <a className="button primary" href="#contact">Tell me about your project <Arrow /></a>
               <a className="text-link" href="#work">See a recent project <span>↓</span></a>
