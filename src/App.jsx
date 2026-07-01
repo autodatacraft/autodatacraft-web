@@ -172,7 +172,11 @@ function App() {
         <div className="section-shell footer-inner">
           <a className="brand" href="#top"><span className="brand-mark">A</span><span>AutoDataCraft</span></a>
           <p>Practical software for real-world work.</p>
-          <div><a href="https://github.com/autodatacraft" target="_blank" rel="noreferrer">GitHub ↗</a><span>© 2026 AutoDataCraft</span></div>
+          <div>
+            <a href="https://github.com/autodatacraft" target="_blank" rel="noreferrer">GitHub ↗</a>
+            <a href="https://www.linkedin.com/in/william-limy-1235b137" target="_blank" rel="noreferrer">LinkedIn ↗</a>
+            <span>© 2026 AutoDataCraft</span>
+          </div>
         </div>
       </footer>
     </>
